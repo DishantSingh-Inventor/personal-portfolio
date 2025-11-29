@@ -1,6 +1,6 @@
 * {
-    margin: 2;
-    padding: 3;
+    margin: 0;
+    padding: 0;
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
@@ -20,6 +20,7 @@ body {
 }
 
 .normal h1 {
+    justify-content: left;
     font-size: 2.5rem;
     color: #35baf3;
 }
@@ -174,6 +175,7 @@ h2 {
     transform: translateY(-8px);
     box-shadow: 0 10px 25px rgba(56, 189, 248, 0.25)
 } 
+
 
 
 
